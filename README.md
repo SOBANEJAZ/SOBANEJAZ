@@ -1,6 +1,6 @@
 <h1>MY MAIN ACCOUNT</h1>
 <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
-  <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/jiraiya.png" alt="profile pictures" width="150"/>
+  <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/tumblr_py5n2foRxV1v8lkoeo1_1280-removebg-preview.png" width="150"/>
 </a>
 
 
