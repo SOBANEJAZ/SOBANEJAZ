@@ -1,10 +1,6 @@
-<h1>  <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
-    <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="150"/></h1>
+<h1 align="center"> 
+  <a href="https://github.com/SOBANEJAZ"><img src="https://readme-typing-svg.herokuapp.com?font=mv+boli&weight=100&size=30&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Hello+I+AM+SOBAN+%F0%9F%98%8E;I+love+open+source+%F0%9F%93%82;I+love+python+%F0%9F%90%8D;I+love+spreading+knowledge+%F0%9F%A4%93;I+love+learning+%F0%9F%93%96;FROM+OHIO+%F0%9F%91%BB" alt="Typing SVG" /></a></h1>
 
-  
-<p align="center">
-  <a href="https://github.com/SOBANEJAZ"><img src="https://readme-typing-svg.herokuapp.com?font=mv+boli&weight=100&size=30&duration=1500&pause=1000&color=FFFFFF&width=435&lines=Hello+I+AM+SOBAN+%F0%9F%98%8E;I+love+open+source+%F0%9F%93%82;I+love+python+%F0%9F%90%8D;I+love+spreading+knowledge+%F0%9F%A4%93;I+love+learning+%F0%9F%93%96;FROM+OHIO+%F0%9F%91%BB" alt="Typing SVG" /></a>
-</p>
   
 <p>
 <div align="center" target="_blank">
@@ -17,7 +13,7 @@
 </div>
 </p>
       
-#  Expertise In
+# <img src="https://i.gifer.com/3UsO.gif" width="500"> Expertise In
 
 <br>
 <div align="center">
