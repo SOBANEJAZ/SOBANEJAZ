@@ -1,5 +1,5 @@
 <h1>  <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
-    <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="140"/></h1>
+    <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="200"/></h1>
 
   
 <p align="center">
@@ -16,7 +16,10 @@
   <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=Github&logoColor=white">
 </div>
 </p>
+      
+#  Expertise In
 
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -27,9 +30,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
 </div>
-</p>
 
-# <img src="https://media3.giphy.com/media/9xt1MUZqkneFiWrAAD/giphy.gif?cid=ecf05e47w7dkb216om7t9ifsbzq291qfdf9ncptdhdiytti8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> Badges
+# <img src="https://media3.giphy.com/media/JRlqKEzTDKci5JPcaL/giphy.gif?cid=ecf05e47tyd0x6ou87qlmb0plzw159lrjwf27un43hynp720&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="90"> Achievements and Badges
 <br>
 
 
