@@ -53,5 +53,5 @@
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SOBANEJAZ}/count.svg"></p>
 
