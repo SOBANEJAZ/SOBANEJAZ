@@ -1,5 +1,5 @@
 <h1>  <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
-    <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="200"/></h1>
+    <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="140"/></h1>
 
   
 <p align="center">
