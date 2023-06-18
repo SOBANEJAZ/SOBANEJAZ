@@ -1,6 +1,6 @@
 <h1>SOBAN EJAZ MAIN ACCOUNT 🐱‍👤</h1>
 <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
-  <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/tumblr_py5n2foRxV1v8lkoeo1_1280-removebg-preview.png" width="150"/>
+  <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="150"/>
 </a>
 <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=mv+boli&weight=100&size=27&duration=1500&pause=1000&color=F70202&width=435&lines=Hello+I+AM+SOBAN+%F0%9F%98%8E;I+love+open+source+%F0%9F%93%82;I+love+python+%F0%9F%90%8D;I+love+spreading+knowledge+%F0%9F%A4%93;I+love+learning+%F0%9F%93%96;FROM+OHIO+%F0%9F%91%BB" alt="Typing SVG" /></a>
