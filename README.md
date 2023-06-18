@@ -1,6 +1,6 @@
 <h1>MY MAIN ACCOUNT</h1>
 <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
-  <img src="D:\programming\web development\github profile\jiraiya.png" alt="profile pictures" width="200"/>
+  <img src="[D:\programming\web development\github profile\jiraiya.png](https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/jiraiya.png)" alt="profile pictures" width="200"/>
 </a>
 
 
