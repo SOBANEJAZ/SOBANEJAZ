@@ -8,7 +8,19 @@
 </p>
     
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=WELCOME%20TO%20MY%20PROFILE%20🤍&fontSize=40&height=130&width=100%&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=WELCOME%20TO%20MY%20PROFILE%20🤍&fontSize=30&height=100&width=100%&section=header"/>
 </p></a>
+
+<p>
+<div align="center" target="_blank">
+  <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white">
+</div>
+</p>
+
+
 
 [![An image of @sobanejaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sobanejaz)](https://holopin.io/@sobanejaz)
