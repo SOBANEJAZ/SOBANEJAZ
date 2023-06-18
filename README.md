@@ -1,5 +1,4 @@
-<h1>  SOBAN EJAZ 
-  <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
+<h1>  <a href="https://github.com/SOBANEJAZ" {:target="_blank" rel="noopener"}>
     <img align="left" src="https://raw.githubusercontent.com/SOBANEJAZ/temperature-converter-program-in-python/master/output-onlinegiftools.gif" width="200"/></h1>
 
   
@@ -18,6 +17,11 @@
 </div>
 </p>
 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=MY%20ACHIEVEMENTS%20AND%20BADGES%20🤍&fontSize=30&height=100&width=100%&section=header"/>
+</p></a>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -30,9 +34,5 @@
   
 </div>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=MY%20ACHIEVEMENTS%20AND%20BADGES%20🤍&fontSize=30&height=100&width=100%&section=header"/>
-</p></a>
 
 [![An image of @sobanejaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sobanejaz)](https://holopin.io/@sobanejaz)
