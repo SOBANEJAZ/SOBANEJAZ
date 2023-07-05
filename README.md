@@ -12,10 +12,11 @@
   <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=Github&logoColor=white">
 </div>
 </p>
-<!--- 
- # <img src="3UsO.gif" width="70"> Expertise In
-
+    
+# <img src="3UsO.gif" width="70">  Expertise In
 <br>
+
+    
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Go-00AED8.svg?style=for-the-badge&logo=go&logoColor=white">
@@ -44,16 +45,13 @@
   </a>
 </p>
 <br>
----
 
-<!-- [![Torrin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=torrinworx&custom_title=Torrin's%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](http://torrinleonard.com/) -->
 
-<!---<p align="center">
+<p align="center">
   <a href="https://github.com/SOBANEJAZ">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBANEJAZ&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   </a>
 </p>
 
-<!---<p align="center"><img src="https://profile-counter.glitch.me/{SOBANEJAZ}/count.svg"></p>
---->
+<p align="center"><img src="https://profile-counter.glitch.me/{SOBANEJAZ}/count.svg"></p>
 
