@@ -26,7 +26,7 @@
 
 <div align="left">
   <a href="https://github.com/SOBANEJAZ">
-    <img src="https://github-readme-stats.vercel.app/api?username=SOBANEJAZ&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="mhdyaseen8841's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SOBANEJAZ&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="SOBANEJAZ's GitHub stats">
   </a>
 </div>
 
