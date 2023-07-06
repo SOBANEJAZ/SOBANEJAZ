@@ -13,7 +13,7 @@
 </div>
 </p>
     
-# <img src="3UsO.gif" width="70">  Expertise In
+# <img src="3UsO.gif" width="70">  Learning
 <br>
 
     
