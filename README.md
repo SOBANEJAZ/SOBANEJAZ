@@ -33,7 +33,9 @@
 <div align="right">
 <a style="margin: 0rem" href="https://github.com/SOBANEJAZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBANEJAZ&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=50c878&dates=50c878&hide_border=true" /></a>
 </div>
-
+<div align="left">
+<a style="text-aling:center" href="https://github.com/SOBANEJAZ" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBANEJAZ&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/sobanpythoB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
