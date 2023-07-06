@@ -1,43 +1,23 @@
-name: Generate Snake
+name: Generate Datas
 
 on:
-  schedule:
-    # every 6 hours
-    - cron: "0 */6 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Generate the snake
+      # Snake Animation
+      - uses: Platane/snk@master
         id: snake-gif
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          gif_out_path=dist/github-contribution-grid-snake.gif
-          svg_out_path=dist/github-contribution-grid-snake.svg
-          python -m pip install -U git+https://github.com/Platane/snk.git
-          snk --user ${{ secrets.GITHUB_ACTOR }} --output $gif_out_path
-          echo "::set-output name=gif_out_path::$gif_out_path"
-          echo "::set-output name=svg_out_path::$svg_out_path"
-
-      - name: Show the status of the build
-        run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+          github_user_name: SOBANEJAZ
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
