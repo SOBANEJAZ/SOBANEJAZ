@@ -42,7 +42,7 @@
 </div>
 
 ##
-
+[![An image of @sobanejaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sobanejaz)](https://holopin.io/@sobanejaz)
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
 </div>
