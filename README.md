@@ -4,8 +4,8 @@
   
 <p>
 <div align="center" target="_blank">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
-    <img src="https://img.shields.io/badge/MY WEBSITE-800080?style=for-the-badge&logo=medium&logoColor=white">
+  <a href="https://www.youtube.com/channel/UCk1sZkWM1CkSHp3rEmNkRCw" target="_blank">
+    <img src="https://img.shields.io/badge/MY Youtube Channel-800080?style=for-the-badge&logo=medium&logoColor=white">
   <a href="mailto:sobanpythonista@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.instagram.com/soban_ejaz/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://twitter.com/SobanEjaz6"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
