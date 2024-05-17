@@ -5,10 +5,14 @@
 <div align="center" target="_blank">
   <a href="mailto:sobanpythonista@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.instagram.com/soban_ejaz/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <div align="center">
+  <a href="https://www.buymeacoffee.com/sobanpythoB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
 </div>
 </p>
+<h1 align="center"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" > Statistics </h1>
     
-<h1 align="center">💻 Tech Stack</h1>
+<!-- <h1 align="center">💻 Tech Stack</h1> -->
 <br>
 
 
@@ -17,23 +21,20 @@
 </div>
 
 
-<h1 align="center"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" > Statistics </h1>
 
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/SOBANEJAZ">
     <img src="https://github-readme-stats.vercel.app/api?username=sobanejaz&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="SOBANEJAZ's GitHub stats">
   </a>
-</div>
-<div align="right">
+</div> -->
+<div align="center">
 <a style="margin: 0rem" href="https://github.com/SOBANEJAZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBANEJAZ&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=50c878&dates=50c878&hide_border=true" /></a>
 </div>
-<div align="left">
+<!--<div align="left">
 <a style="text-aling:center" href="https://github.com/SOBANEJAZ" align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOBANEJAZ&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
+-->
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/sobanpythoB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</div>
 
 ##
 [![An image of @sobanejaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sobanejaz)](https://holopin.io/@sobanejaz)
