@@ -1,13 +1,10 @@
-<h1 align="center"> 
-  <a href="https://github.com/SOBANEJAZ"><img src="https://readme-typing-svg.herokuapp.com?font=mv+boli&weight=100&size=30&duration=1500&pause=1000&color=00ff00&width=435&lines=Hello+I+AM+SOBAN+%F0%9F%98%8E;I+love+to+CODE;I+Learn+Everything+%F0%9F%90%8D;" alt="Typing SVG" /></a></h1>
-
-  
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
+</div>
 <p>
 <div align="center" target="_blank">
   <a href="mailto:sobanpythonista@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://www.instagram.com/soban_ejaz/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a href="https://twitter.com/SobanEjaz6"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a href="https://github.com/SOBANEJAZ"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=Github&logoColor=white">
 </div>
 </p>
     
@@ -27,7 +24,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sobanejaz&show_icons=true&hide=&count_private=true&title_color=0D1117&text_color=50c878&icon_color=00FFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="SOBANEJAZ's GitHub stats">
   </a>
 </div>
-
 <div align="right">
 <a style="margin: 0rem" href="https://github.com/SOBANEJAZ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SOBANEJAZ&stroke=ffffff&background=0D1117&ring=e2fdff&fire=14FE64&currStreakNum=e2fdff&currStreakLabel=e2fdff&sideNums=e2fdff&sideLabels=50c878&dates=50c878&hide_border=true" /></a>
 </div>
@@ -41,6 +37,10 @@
 
 ##
 [![An image of @sobanejaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sobanejaz)](https://holopin.io/@sobanejaz)
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif" alt="ALT_TEXT">
-</div>
+
+
+
+<h1 align="center"> 
+  <a href="https://github.com/SOBANEJAZ"><img src="https://readme-typing-svg.herokuapp.com?font=mv+boli&weight=100&size=30&duration=700&pause=100&color=00ff00&width=435&lines=Talk+is+Cheap;Show+me+the+CODE;-Linus+Torvalds+🗿" alt="Typing SVG" /></a></h1>
+
+  
