@@ -6,7 +6,7 @@ generative AI specialist. i build agents, RAG pipelines, and tools that do somet
 
 **building with**
 
-`python` · `LLMs` · `RAG` · `multi-agent systems` · `MCP` · `voice AI`
+`LLMs` · `RAG` · `Multi-Agent Systems` · `MCP` · `Voice Agents`  
 
 ---
 
@@ -23,4 +23,4 @@ generative AI specialist. i build agents, RAG pipelines, and tools that do somet
 
 ---
 
-**reach me** · [LinkedIn](https://linkedin.com/in/sobanejaz) · soban@email.com
+**reach me** · [LinkedIn](https://linkedin.com/in/sobanejaz) · sobanpythonista@gmail.com
