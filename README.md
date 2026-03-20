@@ -1,4 +1,4 @@
-### hi, i'm Soban 👋
+### hi, i'm soban 👋
 
 generative AI specialist. i build agents, RAG pipelines, and tools that do something real.
 
