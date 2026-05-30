@@ -1,8 +1,5 @@
 ### hi, i'm soban 👋
 
-generative AI specialist. i build agents, RAG pipelines, and tools that do something real.
+full stack generative AI specialist. 
 
----
-
-
-**reach me** · [LinkedIn](https://linkedin.com/in/sobanejaz) · sobanpythonista@gmail.com · [Portfolio](https://www.soban.tech)
+i build agents, customized web solutions, RAG pipelines and automation workflows that do the your stuff while you sleep.
